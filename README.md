@@ -5,7 +5,7 @@
 
 ![ezgif-3-dc8d0892da](https://user-images.githubusercontent.com/88912978/211168620-94a39194-b47f-4ed3-936b-9ed84d236422.gif)
 
-![snake gif](https://github.com/karenlisboa/karenlisboa/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
