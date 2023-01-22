@@ -9,6 +9,9 @@
 
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Karenlisboa&bg_color=020101&color=9e4c98&line=52d887&point=34edbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=karenlisboa&theme=aura&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karenlisboa&theme=aura&show_icons=true)
